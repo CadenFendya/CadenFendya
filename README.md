@@ -1,4 +1,4 @@
-# Hey, I'm Caden 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1200&color=58A6FF&vCenter=true&width=500&lines=Hey%2C+I'm+Caden+%F0%9F%91%8B)
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
