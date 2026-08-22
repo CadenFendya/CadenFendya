@@ -13,4 +13,4 @@ I use GitHub to document projects, experiments, labs, and whatever I'm currently
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
