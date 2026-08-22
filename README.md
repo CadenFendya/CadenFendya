@@ -1,18 +1,13 @@
 # Hey, I'm Caden 👋
 
-I'm a **Cybersecurity student at Grand Valley State University** pursuing a **Business minor**. I'm interested in Linux, ethical hacking, networking, programming, and learning how systems can be secured and tested.
+I'm a **Cybersecurity student at Grand Valley State University** with a **Business minor**. I'm interested in cybersecurity, Linux, programming, artificial intelligence, and understanding how systems work from the inside out.
 
-<p>
-  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-</p>
+I use GitHub to document projects, experiments, labs, and whatever I'm currently learning.
 
-## Goals
-
-- Build a strong foundation in cybersecurity and computer science
-- Get better at hands-on security labs and CTFs
-- Learn both offensive and defensive security
-- Build projects that show real technical ability
-- Explore a future career in cybersecurity consulting and penetration testing
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
