@@ -1,41 +1,18 @@
 # Hey, I'm Caden 👋
 
-### Cybersecurity Student | Linux Enthusiast | Builder
+I'm a **Cybersecurity student at Grand Valley State University** pursuing a **Business minor**. I'm interested in Linux, ethical hacking, networking, programming, and learning how systems can be secured and tested.
 
-I'm a cybersecurity student at **Grand Valley State University** pursuing a **Business minor**. I'm interested in understanding how systems work, how they break, and how to secure them.
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+</p>
 
-Right now I'm building my skills through hands-on labs, Linux, programming, networking, and security projects.
+## Goals
 
-## 🔐 Cybersecurity
-
-- Learning offensive and defensive security fundamentals
-- Practicing in legal lab environments and CTFs
-- Exploring Linux security, networking, reconnaissance, and web security
-- Interested in cybersecurity consulting and penetration testing
-
-## 🧰 Tech I'm Working With
-
-- **Languages:** Python, C
-- **Operating Systems:** Linux, Kali Linux, Windows
-- **Security:** Nmap, DIRB, Wireshark, Burp Suite
-- **Tools:** Git, GitHub, VMware
-
-## 📚 Currently Learning
-
-- Cybersecurity fundamentals
-- System-level programming
-- Networking & web security
-- Linux administration
-- Capture the Flag challenges
-
-## 🚀 Goals
-
-I'm focused on building a strong technical foundation while documenting projects and labs here on GitHub. Over time, this profile will become a record of what I've built, broken, learned, and secured.
-
-## 🎣 Outside of Tech
-
-When I'm not working with computers, you'll probably find me fishing somewhere in Michigan.
-
----
-
-> Always learning. Always building.
+- Build a strong foundation in cybersecurity and computer science
+- Get better at hands-on security labs and CTFs
+- Learn both offensive and defensive security
+- Build projects that show real technical ability
+- Explore a future career in cybersecurity consulting and penetration testing
