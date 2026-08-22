@@ -1,6 +1,6 @@
 # Hey, I'm Caden 👋
 
-I'm a **Cybersecurity student at Grand Valley State University** with a **Business minor**. I'm interested in cybersecurity, Linux, programming, artificial intelligence, and understanding how systems work from the inside out.
+I'm a **Cybersecurity student at Grand Valley State University** with a **Business minor**. I'm interested in cybersecurity, Linux, programming, and **artificial intelligence**, especially understanding how systems work from the inside out.
 
 I use GitHub to document projects, experiments, labs, and whatever I'm currently learning.
 
@@ -12,4 +12,3 @@ I use GitHub to document projects, experiments, labs, and whatever I'm currently
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![AI](https://img.shields.io/badge/AI-6C63FF?style=for-the-badge&logo=probot&logoColor=white)
